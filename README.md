@@ -153,7 +153,6 @@ Here is a quick tip to help you test your sorting algorithms with big sets of ra
 
 <br>
 
-<h1 align="center"><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png" width='400'><br>Sorting algorithms<br>& Big O Notation</h1>
+<h1 align="center"><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png" width='400'>
 
 <br>
-
