@@ -1,5 +1,11 @@
 # C - Sorting algorithms & Big O
 
+<br>
+
+<h1 align="center"><img src="https://i.imgur.com/W3wtc8D.jpg" width='150'><br>Sorting algorithms<br>& Big O Notation</h1>
+
+<br>
+
 ## Background Context
 
 This project is meant to be done by groups of two students. Each group of two should  [pair program](https://intranet.hbtn.io/rltoken/QcXizPyNa4DTAMLNzCwdHg) 
