@@ -2,7 +2,7 @@
 
 <br>
 
-<h1 align="center"><img src="https://i.imgur.com/W3wtc8D.jpg" width='300'><br>Sorting algorithms<br>& Big O Notation</h1>
+<h1 align="center"><img src="https://i.imgur.com/W3wtc8D.jpg" width='400'><br>Sorting algorithms<br>& Big O Notation</h1>
 
 <br>
 
