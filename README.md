@@ -149,3 +149,11 @@ Please use the “short” notation (don’t use constants). Example:   ` O(nk) 
 ### Tests
 
 Here is a quick tip to help you test your sorting algorithms with big sets of random integers:  [Random.org](https://intranet.hbtn.io/rltoken/KkFXByKWf55lTK32JnY62w)
+
+
+<br>
+
+<h1 align="center"><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png" width='400'><br>Sorting algorithms<br>& Big O Notation</h1>
+
+<br>
+
