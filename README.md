@@ -21,4 +21,3 @@ Read or watch :
 ## Learning Objectives
 At the end of this project, you are expected to be able to  [explain to anyone](https://intranet.hbtn.io/rltoken/NwGzC3ck-xCcOmVIIbZn9Q) 
  ,  without the help of Google :
- 
