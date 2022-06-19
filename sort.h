@@ -49,5 +49,8 @@ void heap_sort(int *array, size_t size);
 void radix_sort(int *array, size_t size);
 void bitonic_sort(int *array, size_t size);
 void quick_sort_hoare(int *array, size_t size);
+void radix_sort(int *array, size_t size);
+void countingSort(int array[], int size, int place);
+int getMax(int array[], int n);
 
 #endif /* SORT_H */
