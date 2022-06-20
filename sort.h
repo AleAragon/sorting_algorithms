@@ -55,5 +55,8 @@ int getMax(int array[], int n);
 void cocktail_sort_list(listint_t **list);
 void swap_node_ahead(listint_t **list, listint_t **tail, listint_t **shaker);
 void swap_node_behind(listint_t **list, listint_t **tail, listint_t **shaker);
+int get_max(int *array, int size);
+void radix_counting_sort(int *array, size_t size, int sig, int *buff);
+void radix_sort(int *array, size_t size);
 
 #endif /* SORT_H */
